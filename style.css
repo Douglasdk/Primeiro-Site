@@ -1,0 +1,34 @@
+body{
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+
+  font-family: 'Patua One', cursive;
+  line-height: 1.5;
+  color: #f31b4c;
+
+  background-image: url(show.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+main{
+  background: #ffffffc4;
+  padding: 5px 40px;
+  margin top: 20px;
+  border-radius: 15px;
+
+}
+.logo{
+  text-align: center;
+}
+
+.nome{
+  text-align: center;
+}
+
+.slogan{
+  text-align: center;
+}
